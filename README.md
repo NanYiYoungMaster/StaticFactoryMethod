@@ -1,0 +1,2 @@
+# StaticFactoryMethod
+DesignModeStudy_01_SimpleCalculator By StaticFactoryMethod
