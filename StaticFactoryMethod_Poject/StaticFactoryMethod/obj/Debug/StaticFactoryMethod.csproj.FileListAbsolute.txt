@@ -1,0 +1,7 @@
+D:\_ruanhaoyu\DesignMode\StaticFactoryMethod\StaticFactoryMethod\bin\Debug\StaticFactoryMethod.exe.config
+D:\_ruanhaoyu\DesignMode\StaticFactoryMethod\StaticFactoryMethod\bin\Debug\StaticFactoryMethod.exe
+D:\_ruanhaoyu\DesignMode\StaticFactoryMethod\StaticFactoryMethod\bin\Debug\StaticFactoryMethod.pdb
+D:\_ruanhaoyu\DesignMode\StaticFactoryMethod\StaticFactoryMethod\obj\Debug\StaticFactoryMethod.csprojAssemblyReference.cache
+D:\_ruanhaoyu\DesignMode\StaticFactoryMethod\StaticFactoryMethod\obj\Debug\StaticFactoryMethod.csproj.CoreCompileInputs.cache
+D:\_ruanhaoyu\DesignMode\StaticFactoryMethod\StaticFactoryMethod\obj\Debug\StaticFactoryMethod.exe
+D:\_ruanhaoyu\DesignMode\StaticFactoryMethod\StaticFactoryMethod\obj\Debug\StaticFactoryMethod.pdb
